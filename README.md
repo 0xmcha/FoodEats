@@ -1,3 +1,3 @@
 # FoodEats
 Food Menu
-Create with vite-react and TailwindCSS.
+ made with vite-react and TailwindCSS.
